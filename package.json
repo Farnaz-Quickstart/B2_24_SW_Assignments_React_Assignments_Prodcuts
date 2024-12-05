@@ -1,7 +1,7 @@
 {
   "name": "react_productlist",
   "version": "0.1.0",
-  "homepage": "later",
+  "homepage": "https://farnaz-quickstart.github.io/B2_24_SW_Assignments_React_Assignments_Prodcuts/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
